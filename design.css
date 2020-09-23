@@ -1,0 +1,35 @@
+body{
+    margin: 0px 0px;
+    background-color: darkblue;
+}
+.n{
+    width: 100%;
+    height: 150px;
+    
+    background: peru;
+    color:greenyellow;
+    font-size: 150px;
+    text-align: center;
+   margin: 0px 0px;
+  
+}
+.b{
+    background-size: 200px;
+    width: 1000px;
+    height: ;180px;
+    background: DarkCyan;
+    background-position: bottom;
+    margin: 0px 0px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: left;
+    font-family: verdana;
+    color:floralwhite;
+    font-size: 15px
+    
+    
+}
+.c{
+   text-align: right top;
+    color: black;
+}
